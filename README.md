@@ -1,7 +1,7 @@
-#Persisting Data in Node.js with Postgresql
+# Persisting Data in Node.js with Postgresql
 
 
-##Features
+## Features
 Landing Page
 Leads Page
 Authentication
